@@ -1,0 +1,18 @@
+.weather-header .city-name {
+    font-weight: bold;
+}
+
+.weather-header .condition {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.weather-header .condition-text {
+    font-size: 14px;
+}
+
+.weather-header .condition img {
+    width: 24px;
+    height: 24px;
+}
